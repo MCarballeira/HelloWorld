@@ -1,2 +1,4 @@
 # HelloWorld
-following getting started guide
+Following getting started guide.
+
+The guide told me to edit this.
